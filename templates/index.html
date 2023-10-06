@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ .title }}</title>
+</head>
+<body>
+<h1>Welcome to Anonalyx.io</h1>
+{{ range .posts }}
+    <div><a href="/post/{{ .ID }}">{{ .Title }}</a></div>
+{{ end }}
+</body>
+</html>
