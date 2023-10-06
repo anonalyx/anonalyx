@@ -53,10 +53,10 @@ var posts = []post{
 		"How can I improve the process":       "I am obviously just getting started, so a regular cadence of accountability and deliverables will be critical to establishing a productive work process",
 	}, Date: "08/28/2023"},
 	{ID: "3", Title: "Week 3", Body: map[string]string{
-		"What I accomplished last week":       "",
-		"What I plan to accomplish this week": "",
-		"What went well":                      "",
-		"How can I improve the process":       "",
+		"What I accomplished last week":       "- Began research on docker, kubernetes, and aws.\n\n- completed my project proposal",
+		"What I plan to accomplish this week": "- Research and learn more about docker, kubernetes, and aws!\n\n- continue to investigate feasibility and scoping",
+		"What went well":                      "- Preparing for technical coding interviews is very difficult to manage in addition to work and schoolwork\n\n",
+		"How can I improve the process":       "- Finding the time to manage everything I have going on feels like one of those interval scheduling  dynamic programming problems in algorithms\n\n",
 	}, Date: "08/28/2023"},
 	{ID: "4", Title: "Week 4", Body: map[string]string{
 		"What I accomplished last week":       "This week, I decided to pivot from my original docker, kubernetes, AWS project idea to one that more closely aligns with my interest in blockchain and cryptocurrencies. I happened to work through the short CryptoZombies tutorial that is an introduction to working with web3 libraries, and at the end they give you 10 ideas on how to round out the tutorial into a full blown application however they leave the actual research and implementation decisions up to you.",
